@@ -1,0 +1,11 @@
+{
+ "r1": {"name": "kemeler", "range": [13.3, 37.6], "parts": [
+   {"from": 0, "mode": "full", "low": {"b": "sh_a", "bSize": 100}},
+   {"from": 26.7, "mode": "top", "scene": {"type": "compare", "props": {"left": {"key": "sh_l", "sub": "sh_ls", "color": "gold"}, "right": {"key": "sh_r", "sub": "sh_rs", "color": "red"}, "mark": null}}}
+ ]},
+ "r2": {"name": "emotsia", "range": [115.3, 149.4], "skip": [[125.0, 130.0]], "parts": [
+   {"from": 0, "mode": "full", "low": {"a": "ord_a", "b": "ord_b", "bSize": 84, "bColor": "gold"}},
+   {"from": 121.2, "mode": "full", "low": {"a": "mi_a", "b": "mi_b", "bSize": 92}},
+   {"from": 130.0, "mode": "top", "scene": {"type": "chain", "props": {"keys": ["ch_a", "ch_b", "ch_c", "ch_d", "ch_e", "ch_f"]}}}
+ ]}
+}

@@ -1,0 +1,11 @@
+{
+"progress": {"total": 11, "keys": {"4": "c4_n"}},
+"scenes": [
+ {"id": "ships", "type": "compare", "from": 26.7, "to": 37.0, "props": {"left": {"key": "sh_l", "sub": "sh_ls", "color": "gold"}, "right": {"key": "sh_r", "sub": "sh_rs", "color": "red"}, "mark": null}},
+ {"id": "law4", "type": "chapter", "from": 51.8, "to": 70.4, "chapter": 4, "props": {"n": 4, "total": 11, "numKey": "c4_n", "keys": ["c4_a", "c4_b"]}},
+ {"id": "names", "type": "cards", "from": 73.0, "to": 82.0, "chapter": 4, "props": {"cols": 3, "items": [{"key": "n_a"}, {"key": "n_b"}, {"key": "n_c"}, {"key": "n_d"}, {"key": "n_e"}, {"key": "n_f"}]}},
+ {"id": "subs", "type": "counter", "from": 102.8, "to": 113.3, "chapter": 4, "props": {"at": "sub_c", "word": 0, "to": 100000, "head": "sub_a", "foot": ["sub_c", "sub_b"], "color": "gold"}},
+ {"id": "order", "type": "panel", "kind": "panel", "from": 115.3, "to": 120.9, "props": {"keys": ["ord_a", "ord_b"]}},
+ {"id": "mill", "type": "title", "kind": "paper", "from": 121.2, "to": 124.9, "props": {"keys": ["mi_a", "mi_b"]}},
+ {"id": "chain", "type": "chain", "from": 130.3, "to": 149.4, "chapter": 4, "props": {"keys": ["ch_a", "ch_b", "ch_c", "ch_d", "ch_e", "ch_f"]}}
+]}

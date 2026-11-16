@@ -1,0 +1,14 @@
+node_modules/
+work/
+out/
+template/out/
+template/build/
+template/public/cut.mp4
+template/public/reels/
+template/public/sfx/
+*.mp4
+*.mov
+*.wav
+.DS_Store
+__pycache__/
+.remotion/
